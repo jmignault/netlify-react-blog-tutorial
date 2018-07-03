@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Link } from 'react-router'
 import Butter from 'buttercms'
 
-const butter = Butter('de55d3f93789d4c5c26fb07445b680e8bca843bd');
+const butter = Butter('ac46328372b1645ce5f9f72b1231fb9b90527630');
 
 class BlogHome extends Component {
 
